@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to DataViz Makeover 1",
+    "description": "Welcome to my new blog, DataViz Makeover 1. This blog consists of DataViz Makeover 1 for ISSS608: Visual Analytics!",
+    "author": [
+      {
+        "name": "Nikitha Banda",
+        "url": "https://www.linkedin.com/in/banda-nikitha"
+      }
+    ],
+    "date": "2021-05-30",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-05-30T05:31:19+08:00",
+    "input_file": "welcome.knit.md"
+  }
+]
