@@ -1,11 +1,10 @@
 ---
-title: "Welcome to DataViz Makeover 1"
+title: "Welcome to my Blog!"
 description: |
-  Welcome to my new blog, DataViz Makeover 1. This blog consists of DataViz Makeover 1 for ISSS608: Visual Analytics!
+  On this plaotform, you will get to see my visual analytics skills. Feel free to drop your comments on tableau public or you can also leave me a message on linkedln (you will navigate to my profilt by clicking on my name below:) ).
 author:
   - name: Nikitha Banda 
     url: https://www.linkedin.com/in/banda-nikitha
-date: 05-30-2021
 output:
   distill::distill_article:
     self_contained: false

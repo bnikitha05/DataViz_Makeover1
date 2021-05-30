@@ -2,18 +2,23 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
-      "author": [],
+      "title": "Welcome to my Blog!",
+      "description": "On this plaotform, you will get to see my visual analytics skills. Feel free to drop your comments on tableau public or you can also leave me a message on linkedln (you will navigate to my profilt by clicking on my name below:) ).\n",
+      "author": [
+        {
+          "name": "Nikitha Banda",
+          "url": "https://www.linkedin.com/in/banda-nikitha"
+        }
+      ],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-30T05:23:56+08:00"
+      "last_modified": "2021-05-30T17:29:57+08:00"
     },
     {
       "path": "index.html",
-      "title": "DataViz Makeover 1",
+      "title": "Interactive Data Exploration and Analysis",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-30T05:23:57+08:00"
+      "last_modified": "2021-05-30T17:30:21+08:00"
     }
   ],
   "collections": ["posts/posts.json"]

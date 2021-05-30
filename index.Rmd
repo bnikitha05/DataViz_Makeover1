@@ -1,5 +1,5 @@
 ---
-title: "DataViz Makeover 1"
+title: "Interactive Data Exploration and Analysis"
 site: distill::distill_website
 listing: posts
 ---

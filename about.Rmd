@@ -1,7 +1,13 @@
 ---
-title: "About this blog"
+title: "Welcome to my Blog!"
 description: |
-  Some additional details about the blog
+  On this plaotform, you will get to see my visual analytics skills. Feel free to drop your comments on tableau public or you can also leave me a message on linkedln (you will navigate to my profilt by clicking on my name below:) ).
+author:
+  - name: Nikitha Banda 
+    url: https://www.linkedin.com/in/banda-nikitha
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
