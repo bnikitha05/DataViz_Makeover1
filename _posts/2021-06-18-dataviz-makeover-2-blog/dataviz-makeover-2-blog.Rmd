@@ -142,7 +142,7 @@ The alternate proposed visualization is as follows:
 
 ![](img/img44.JPG){width=80%}
 
-It can be viewed [**here on Tableau Public**]().
+It can be viewed [**here on Tableau Public**](https://public.tableau.com/app/profile/nikitha4057/viz/DataViz2_16241913007550/MotionBubblePlot).
 
 ## 5.0 Building Alternative Design
 Follow below steps to prepare the above visualization:
